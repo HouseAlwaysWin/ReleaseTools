@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
 	<version>2.0.0.0</version>
-	<url>https://github.com/HouseAlwaysWin/ReleaseTools/blob/b57af6a90e2dfb516483eca0c64a2d4dbfdb5331/publish.zip</url>
+	<url>https://github.com/HouseAlwaysWin/ReleaseTools/raw/b57af6a90e2dfb516483eca0c64a2d4dbfdb5331/publish.zip</url>
 	<changelog></changelog>
 	<mandatory>false</mandatory>
 </item>
