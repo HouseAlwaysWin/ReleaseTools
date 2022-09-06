@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
 	<version>1.0.0.0</version>
-	<url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-	<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+	<url>https://github.com/HouseAlwaysWin/ReleaseTools/blob/b57af6a90e2dfb516483eca0c64a2d4dbfdb5331/publish.zip</url>
+	<changelog></changelog>
 	<mandatory>false</mandatory>
 </item>
