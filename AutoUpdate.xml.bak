@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>1.0.0.0</version>
+	<version>1.1.0.0</version>
 	<url>https://github.com/HouseAlwaysWin/ReleaseTools/raw/b57af6a90e2dfb516483eca0c64a2d4dbfdb5331/publish.zip</url>
 	<changelog></changelog>
 	<mandatory>false</mandatory>
