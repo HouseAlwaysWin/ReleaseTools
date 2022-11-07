@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>1.4.1.0</version>
-	<url>https://github.com/HouseAlwaysWin/ReleaseTools/releases/download/1410/publish.zip</url>
+	<version>1.4.1.1</version>
+	<url>https://github.com/HouseAlwaysWin/ReleaseTools/releases/download/1411/publish.zip</url>
 	<changelog></changelog>
 	<mandatory>false</mandatory>
 </item>
