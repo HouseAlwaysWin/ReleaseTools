@@ -2,6 +2,6 @@
 <item>
   <version>2.0.0.1</version>
   <url>https://github.com/HouseAlwaysWin/ReleaseTools/releases/download/2.0.0.1/publish.zip</url>
-  <changelog>Update to 2.0.0.1</changelog>
+  <changelog>https://github.com/HouseAlwaysWin/ReleaseTools/releases</changelog>
   <mandatory>false</mandatory>
 </item>
